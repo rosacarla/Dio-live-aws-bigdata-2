@@ -1,5 +1,8 @@
-# Instruções para atividade prática
-Repositório para a Live de 24/06/2021
+# DIO live AWS Big Data 2
+
+Repositório com material complementar para curso "Introdução a Engenharia de Dados na AWS", que integra as atividades previstas pelo bootcamp Cognizant Clud Data Engineer #2, disponibilizado na plataforma da DIO Inc.
+
+## Instruções para atividade prática
 
 ### Kinesis Delivery Stream
 
